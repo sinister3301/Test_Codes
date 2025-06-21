@@ -5,6 +5,8 @@
   This Arduino sketch demonstrates how to use the U8g2 library to display
   text on a 128x64 SH1106 OLED display using I2C (0x3C) communication.
 
+ ** TESTED & WORKING **
+
   Hardware:
   - Arduino board (e.g., Uno, Nano)
   - SH1106 128x64 OLED display (I2C interface)
