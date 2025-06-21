@@ -30,7 +30,7 @@
 | IN2            | D9                 |
 | IN3            | D10                |
 | IN4            | D11                |
-| VCC            | 5V                 |
+| VCC            | 5V*                |  * Try to Connect Vcc of ULN2003 Directly to 5v Power Supply For Enough Current
 | GND            | GND                |
 +----------------+--------------------+
 
